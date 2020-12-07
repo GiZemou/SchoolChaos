@@ -1,9 +1,0 @@
-﻿HospitalUnavailable=今天校医院医生去旅游了。;今天校医院放假。
-HealthFull=你没病来干啥？
-HospitalDoesHarm=校医院医生给你开错药了。;你不小心喝了校医院里的消毒水。
-HospitalCure=治好了，还不赶快谢谢老师？;欢迎下次光临！
-HospitalNoMoney=天下没有免费的医疗服务。
-BuyNothing=你购买了大量空气。
-SellNothing=你卖出了大量空气。
-BorrowUnavb=NM$L，爷没钱！
-BorrowSuccess=“得，别让爷下次再碰见你。”;“有借有还，再借不难。”
